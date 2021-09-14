@@ -1,4 +1,4 @@
-Sitemap: https://tlienart.github.io/FranklinTemplates.jl/sitemap.xml
+Sitemap: ashwnai-rathee.github.io/sangrin-log/sitemap.xml
 
 User-agent: *
 Disallow:
